@@ -238,7 +238,17 @@ Total errors: 67 / 10,849 (0.62%)
 **Nhận xét**: Focal Loss giúp mô hình bớt tự tin vào các dự đoán sai, nhưng tăng False Negative → Baseline vẫn tốt hơn cho bài toán này.
 
 ---
+## 🚀 Demo Trực Tuyến
 
+Thử mô hình ngay trên Hugging Face Spaces mà không cần cài đặt:
+
+🔗 **[Fake News Detection Demo](https://huggingface.co/spaces/vikhanglam625/fake_new_52300112_52300116)**
+
+**Tính năng**:
+- Nhập tin tức tiếng Việt bất kỳ
+- Nhận xác suất tin giả/thật
+- Xem từ khóa chính được highlight
+- Kết quả trong vài giây
 ## 📁 Cấu Trúc Repository
 
 ```
