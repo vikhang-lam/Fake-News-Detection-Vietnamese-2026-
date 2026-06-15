@@ -27,7 +27,7 @@ Dự án này xây dựng một pipeline hoàn chỉnh để **phân loại tin 
 | Vietnamese Medical Fake News | Tin giả (y tế) | 4,925 | Kaggle |
 | FakeNewsVN | Tin giả (đa chủ đề) | 820 | Kaggle |
 | Vietnamese Fake News PBL7 | Tin giả (đa chủ đề) | 375 | Kaggle |
-| Việt Tân & Thời Báo | Tin giả (chính trị) | 9,583 | Excel tùy chỉnh |
+| Việt Tân & Thời Báo | Tin giả (chính trị) | 9,583 | Crawl |
 | VnExpress & Báo Nhân Dân | Tin thật | 39,426 | Crawl |
 | **Tổng cộng** | - | **55,129** | - |
 
