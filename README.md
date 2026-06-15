@@ -18,7 +18,7 @@ Dự án này xây dựng một pipeline hoàn chỉnh để **phân loại tin 
 
 ---
 
-## 📊 Dataset
+## 📊 Dataset (https://drive.google.com/drive/folders/1n27Z90tOLnT5SZK96ntJ2WLl97EMDP_B)
 
 ### Thành Phần Dữ Liệu
 
